@@ -44,6 +44,4 @@ public class UnicastSink {
     private static String doTask(int taskNumber) {
         return "task " + taskNumber + " result";
     }
-
-
 }
