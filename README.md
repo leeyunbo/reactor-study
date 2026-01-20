@@ -15,3 +15,4 @@
 - Chapter 09 Sinks
 - Chapter 10 Scheduler
 - Chapter 11 Context
+- Chapter 12 Debugging
