@@ -16,3 +16,5 @@
 - Chapter 10 Scheduler
 - Chapter 11 Context
 - Chapter 12 Debugging
+- Chapter 13 Test
+- Chapter 14 Operater
